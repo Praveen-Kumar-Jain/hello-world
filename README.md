@@ -1,2 +1,5 @@
 # hello-world
-Just a repository
+Hey There!
+I am praveen.
+I am a software engineer.
+Currently,I am a student.
